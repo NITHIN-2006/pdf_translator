@@ -31,7 +31,7 @@ Universal Translator is an AI-powered web application that allows you to **trans
 ## Screenshots
 
 ![App Screenshot](https://github.com/NITHIN-2006/pdf_translator/blob/main/Screenshot%202025-12-06%20153022.png)
-![App Screenshot]([https://github.com/NITHIN-2006/pdf_translator/blob/main/Screenshot%202025-12-06%20153022.png](https://github.com/NITHIN-2006/pdf_translator/blob/main/Screenshot%202025-12-06%20153105.png))
+![App Screenshot](https://github.com/NITHIN-2006/pdf_translator/blob/c25d406a489fe3269db5f64b011c05204e85aa6f/Screenshot%202025-12-06%20153105.png)
 
 ## File structure
 ```
@@ -70,5 +70,6 @@ pdf_translator/
 │
 └── README.md
 ```
+
 
 
