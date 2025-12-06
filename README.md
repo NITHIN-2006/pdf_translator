@@ -24,7 +24,7 @@ Universal Translator is an AI-powered web application that allows you to **trans
 - **Backend**: FastAPI, Python  
 - **OCR**: PyTesseract for image text extraction  
 - **PDF Handling**: PyMuPDF, pdf2image  
-- **Translation APIs**: Gemini & HuggingFace-based translation services  
+- **Translation APIs**:HuggingFace-based translation services  
 - **Utilities**: Axios, fpdf2, pandas  
 
 ---
@@ -70,3 +70,4 @@ pdf_translator/
 │
 └── README.md
 ```
+
