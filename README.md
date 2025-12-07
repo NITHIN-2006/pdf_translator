@@ -3,7 +3,7 @@
 Upload your PDF or Image and get instant translation of the content
 # Universal Translator
 
-Universal Translator is an AI-powered web application that allows you to **translate text and documents** instantly. It supports multiple languages and file formats, including PDFs and images, providing a seamless translation experience.
+Universal Translator is a web application that allows you to **translate text and documents** instantly. It supports multiple languages and file formats, including PDFs and images, providing a seamless translation experience.
 
 ---
 
@@ -70,6 +70,7 @@ pdf_translator/
 │
 └── README.md
 ```
+
 
 
 
